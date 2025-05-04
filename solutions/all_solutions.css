@@ -1,1 +1,29 @@
 /* all solutions */
+
+/* Exercise 1 */
+#pond {
+  display: flex;
+  justify-content:end;
+}
+/* Exercise 2 */
+#pond {
+  display: flex;
+  justify-content:center;
+}
+/* Exercise 3 */
+#pond {
+  display: flex;
+  justify-content:space-around;
+}
+/* Exercise 4 */
+#pond {
+  display: flex;
+  justify-content:space-between;
+}
+/* Exercise 5 */
+#pond {
+  display: flex;
+  align-items:flex-end;
+}
+
+
